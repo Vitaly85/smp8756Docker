@@ -1,5 +1,5 @@
 
-Here is docker for build android for SMP pltforms only
+Here is docker for build android for SMP platforms only
 #TODO not finished full, see TODO in scripts
 
 For build android image use:
