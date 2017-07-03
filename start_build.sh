@@ -46,6 +46,6 @@ lunch full_tango4tv-userdebug
 
 export USER=$USER_NAME
 
-make-j$(cat /proc/cpuinfo | grep processor | wc -l)
+makei -j$(cat /proc/cpuinfo | grep processor | wc -l)
 
 #make otapackage
